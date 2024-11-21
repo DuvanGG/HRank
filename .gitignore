@@ -22,3 +22,4 @@ tmp/
 local.properties
 .apt_generated/
 .factorypath
+.metadata
